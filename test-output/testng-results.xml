@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-01T11:43:43 EDT" name="Default suite" finished-at="2021-11-01T11:43:49 EDT" duration-ms="6407">
+    <groups>
+    </groups>
+    <test started-at="2021-11-01T11:43:43 EDT" name="Default test" finished-at="2021-11-01T11:43:49 EDT" duration-ms="6407">
+      <class name="com.herokuapp.testclass.HerokuAppLoginAndLogoutTest">
+        <test-method signature="validateLoginLogoutFunctionality()[pri:0, instance:com.herokuapp.testclass.HerokuAppLoginAndLogoutTest@3d1cfad4]" started-at="2021-11-01T11:43:43 EDT" name="validateLoginLogoutFunctionality" finished-at="2021-11-01T11:43:49 EDT" duration-ms="6379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginLogoutFunctionality -->
+      </class> <!-- com.herokuapp.testclass.HerokuAppLoginAndLogoutTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
